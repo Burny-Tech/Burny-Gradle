@@ -1,0 +1,12 @@
+rootProject.name = 'cloud'
+
+
+
+
+//业务模块
+include  'cloud-web'
+include  'cloud-start'
+include  'cloud-service'
+
+
+
